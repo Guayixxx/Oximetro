@@ -1,0 +1,221 @@
+2024-11-26 20:24:49,359 - INFO - Conexión serial establecida en /dev/ttyUSB0 a 115200 baud.
+2024-11-26 20:24:49,366 - INFO - Dash is running on http://127.0.0.1:8050/
+
+2024-11-26 20:24:49,732 - INFO - Conexión serial establecida en /dev/ttyUSB0 a 115200 baud.
+2024-11-26 20:24:50,330 - DEBUG - Recibido: eatrt:000bm/Sp2:00
+2024-11-26 20:24:51,329 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:24:51,330 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:24:51,331 - DEBUG - Recibido: 0 p  p2 .0%
+2024-11-26 20:24:52,331 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:24:52,332 - DEBUG - Recibido: Hertrt:000bm/SO2 .0%
+2024-11-26 20:24:53,330 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:24:53,332 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:24:53,333 - DEBUG - Recibido: .0%
+2024-11-26 20:24:54,333 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:24:54,334 - DEBUG - Recibido: Hert rt:00 p  p2 00 Har ae .0 pm/SO:0.0%
+2024-11-26 20:24:55,335 - DEBUG - Recibido: 0 Hert ate: .0 bpm/ pO2: 0.00 %
+2024-11-26 20:24:55,336 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:24:56,335 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:24:56,336 - DEBUG - Recibido: %
+2024-11-26 20:24:56,336 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:24:57,337 - DEBUG - Recibido: Hert rae: 0.0 p /Sp2: 0.0
+2024-11-26 20:24:58,337 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:24:58,338 - DEBUG - Recibido: 
+2024-11-26 20:24:59,338 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:24:59,340 - DEBUG - Recibido: p2 0.0 %
+2024-11-26 20:24:59,340 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:00,340 - DEBUG - Recibido: etrte .0bm/ p2 .0%
+2024-11-26 20:25:01,339 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:01,340 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:01,341 - DEBUG - Recibido: Har a:00 p SO:00 Her rae: .0 bm  2:0.0%
+2024-11-26 20:25:02,342 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:02,342 - DEBUG - Recibido: Har ae .0bp  .0%
+2024-11-26 20:25:03,341 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:03,342 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:03,343 - DEBUG - Recibido: m/SO .0%
+2024-11-26 20:25:04,341 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:04,344 - DEBUG - Recibido: Hr ae 0 p SpO:00
+2024-11-26 20:25:05,342 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:05,345 - DEBUG - Recibido: Har ae .0m/p2 .0%
+2024-11-26 20:25:06,346 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:06,346 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:06,346 - DEBUG - Recibido: 00 bp  SO:00 Hetrt:0.0 p  pO:00
+2024-11-26 20:25:07,344 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:07,347 - DEBUG - Recibido: a ate 0 p p:0
+2024-11-26 20:25:07,347 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:08,345 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:08,348 - DEBUG - Recibido: Hea ae:0.0 pm/SO: .0 %
+2024-11-26 20:25:09,346 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:09,349 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:09,349 - DEBUG - Recibido: rtrt 0b  p200Hear rte: .0bpm /SpO2:0.00%
+2024-11-26 20:25:10,348 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:10,350 - DEBUG - Recibido: Hr a 0 p /SO:00 %
+2024-11-26 20:25:11,069 - DEBUG - Recibido: p2 .0
+2024-11-26 20:25:11,351 - DEBUG - Recibido: Beat!Heart rat: 0.34bm/SpO2 00
+2024-11-26 20:25:11,651 - DEBUG - Recibido: e p  :.0%
+2024-11-26 20:25:11,899 - DEBUG - Recibido: 
+2024-11-26 20:25:12,349 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:12,352 - DEBUG - Recibido: 09 bm /SO2 40
+2024-11-26 20:25:12,352 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:13,349 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:13,352 - DEBUG - Recibido: Heat ae .9 bp /O2: 9.0 %
+2024-11-26 20:25:14,354 - DEBUG - Recibido: rrt:20m Sp40rtb  p00%
+2024-11-26 20:25:15,354 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:15,355 - DEBUG - Recibido: 000%
+2024-11-26 20:25:16,353 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:16,354 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:16,356 - DEBUG - Recibido: p  p2 0%
+2024-11-26 20:25:16,356 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:17,353 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:17,356 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:17,357 - DEBUG - Recibido: 0 %
+2024-11-26 20:25:18,358 - DEBUG - Recibido: rrte0.0bm/ SO:000%
+2024-11-26 20:25:19,358 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:19,359 - DEBUG - Recibido: aae. p / SO:00
+2024-11-26 20:25:20,360 - DEBUG - Recibido: Heart rae: .0 p  SO2 0%
+2024-11-26 20:25:21,358 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:21,361 - DEBUG - Recibido: 0 pm  p2 .0%
+2024-11-26 20:25:21,361 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:22,359 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:22,360 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:22,361 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:22,362 - DEBUG - Recibido: .0%
+2024-11-26 20:25:23,360 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:23,363 - DEBUG - Recibido: Heat rate: .0 bm / SpO2: 00
+2024-11-26 20:25:24,360 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:24,361 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:24,364 - DEBUG - Recibido: ae: .0 bpm/pO:0.0%
+2024-11-26 20:25:24,364 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:25,362 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:25,365 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:25,365 - DEBUG - Recibido: Hert rae: 00 p / p200 %
+2024-11-26 20:25:26,203 - DEBUG - Recibido: Bet!
+2024-11-26 20:25:26,364 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:26,365 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:26,366 - DEBUG - Recibido: S2 .0%
+2024-11-26 20:25:27,364 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:27,366 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:27,367 - DEBUG - Recibido: Hear ate: 6.99 pm / SpO2: .00 %
+2024-11-26 20:25:28,364 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:28,366 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:28,366 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:28,367 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:28,367 - DEBUG - Recibido: Hertrate 0.00 pm/ pO2: 0.00 %
+2024-11-26 20:25:29,366 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:29,367 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:29,368 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:29,369 - DEBUG - Recibido: bp /SO: .0
+2024-11-26 20:25:29,369 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:30,369 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:30,370 - DEBUG - Recibido: eatrt:00 m/SO2 00
+2024-11-26 20:25:31,371 - DEBUG - Recibido: .0%et rae .0b  p2 .00%
+2024-11-26 20:25:32,368 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:32,372 - DEBUG - Recibido: Hert ate:0.0 bm / O2 .0 %
+2024-11-26 20:25:33,370 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:33,373 - DEBUG - Recibido: ar 0pSp:00Hatrt00bpmS2 .%
+2024-11-26 20:25:34,371 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:34,372 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:34,374 - DEBUG - Recibido: p2 .0%
+2024-11-26 20:25:35,371 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:35,372 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:35,375 - DEBUG - Recibido: .0bm/p2 .0%
+2024-11-26 20:25:35,375 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:36,373 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:36,376 - DEBUG - Recibido: a ae .0 bm/SO2:00%
+2024-11-26 20:25:37,376 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:37,377 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:37,377 - DEBUG - Recibido: Hertrt:00p  p .0 Hea ae .0bp  p2 000%
+2024-11-26 20:25:38,377 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:38,378 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:38,378 - DEBUG - Recibido: ar ae .0bpm/SO:00%
+2024-11-26 20:25:39,375 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:39,377 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:39,378 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:39,379 - DEBUG - Recibido: m/SO:0.0
+2024-11-26 20:25:39,379 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:40,377 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:40,378 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:40,379 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:40,380 - DEBUG - Recibido: 0%
+2024-11-26 20:25:40,380 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:41,381 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:41,381 - DEBUG - Recibido: Hertrt:0.0 p  p:00
+2024-11-26 20:25:42,378 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:42,381 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:42,382 - DEBUG - Recibido: 
+2024-11-26 20:25:42,382 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:43,382 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:43,382 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:43,382 - DEBUG - Recibido: ar ae .00bm/SO .0%
+2024-11-26 20:25:44,382 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:44,384 - DEBUG - Recibido: eatrat: 0.0 pm/ SO2: .0 %
+2024-11-26 20:25:45,384 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:45,385 - DEBUG - Recibido: 0%
+2024-11-26 20:25:46,386 - DEBUG - Recibido: e ae .0bmS2 .00 %
+2024-11-26 20:25:47,384 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:47,386 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:47,387 - DEBUG - Recibido: Hertr: . p  SO2:00 %
+2024-11-26 20:25:48,385 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:48,388 - DEBUG - Recibido: te .0bm/ p2 .0%
+2024-11-26 20:25:48,388 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:49,386 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:49,389 - DEBUG - Recibido: ear rt.0bm/p2 .0%
+2024-11-26 20:25:50,389 - DEBUG - Recibido: Her e 00bm/SO .0%
+2024-11-26 20:25:51,391 - DEBUG - Recibido: Htae: 00 p  SO:00 atrat:.0 p  p2:00 a ae .0m/SO: .0%
+2024-11-26 20:25:51,391 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:52,389 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:52,390 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:52,392 - DEBUG - Recibido: bm/SO: .0%
+2024-11-26 20:25:53,389 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:53,390 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:53,393 - DEBUG - Recibido: e0 p /SO:000%
+2024-11-26 20:25:54,390 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:54,394 - DEBUG - Recibido: ertrte .0bm/Sp2 .0%
+2024-11-26 20:25:55,392 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:55,395 - DEBUG - Recibido: e: 0.00 bpm  SpO2000%
+2024-11-26 20:25:56,392 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:56,393 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:56,396 - DEBUG - Recibido: Hrrt: 0.0bm p2 . Ha a:00 p  O:00 Heart rat/: . Hrtrt:0.00 bpm / SpO2: 0.00 %
+2024-11-26 20:25:57,396 - DEBUG - Recibido: Haae:000bm p .0%
+2024-11-26 20:25:58,396 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:58,398 - DEBUG - Recibido: 00 bpm / SpO2: 0.00 %
+2024-11-26 20:25:58,398 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:59,396 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:25:59,399 - DEBUG - Recibido: Hatrt:00 p  p2 .0%
+2024-11-26 20:26:00,397 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:26:00,399 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:26:00,400 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:26:00,400 - DEBUG - Recibido: er ae .bm/ O .0%
+2024-11-26 20:26:01,397 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:26:01,398 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:26:01,401 - DEBUG - Recibido: er ae00 p p2 .0
+2024-11-26 20:26:02,398 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:26:02,401 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:26:02,402 - DEBUG - Recibido: %
+2024-11-26 20:26:03,400 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:26:03,403 - DEBUG - Recibido: .0bpm/SpO:00
+2024-11-26 20:26:04,400 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:26:04,403 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:26:04,404 - DEBUG - Recibido: 
+2024-11-26 20:26:04,404 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:26:05,403 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:26:05,405 - DEBUG - Recibido: p2 .0
+2024-11-26 20:26:06,404 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:26:06,406 - DEBUG - Recibido: Hertt: .0bm/SO:00 %Heat ra: 0.00bp  SpO:000%
+2024-11-26 20:26:07,407 - DEBUG - Recibido: et rae .0bp  p2 0%
+2024-11-26 20:26:08,408 - DEBUG - Recibido: Hert a: .0bm  p2 .
+2024-11-26 20:26:08,408 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:26:08,733 - DEBUG - Recibido: Bea!
+2024-11-26 20:26:08,733 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:26:09,406 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:26:09,407 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:26:09,408 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:26:09,409 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:26:09,409 - DEBUG - Recibido: e 2.35bpm  SO .0 %
+2024-11-26 20:26:10,410 - DEBUG - Recibido: et rt .5bm/ p2 .0
+2024-11-26 20:26:11,408 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:26:11,409 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:26:11,411 - DEBUG - Recibido: Sp2 .0%
+2024-11-26 20:26:11,411 - ERROR - Error al leer del puerto serial: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2024-11-26 20:26:12,411 - DEBUG - Recibido: Heart rate: 0.00 bpm / SpO2: 0.00 %
+2024-11-26 20:26:12,472 - INFO - Programa terminado y conexión serial cerrada.
